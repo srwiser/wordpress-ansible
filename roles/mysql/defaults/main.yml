@@ -1,0 +1,5 @@
+---
+# defaults file for mysql
+wp_mysql_db: blog-db
+wp_mysql_user: wordpress
+wp_mysql_password: user123
